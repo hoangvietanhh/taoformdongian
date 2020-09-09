@@ -1,0 +1,30 @@
+.wrap{
+    width: 600px;
+    height: 200px;
+    background-color: aqua;
+}
+
+.box{
+    width: 95%;
+    height: 95%;
+    background-color: white;
+    margin: auto;
+}
+
+.head{
+    width: 95%;
+    height: 25px;
+    background-color: orange;
+    text-align: center;
+    margin: auto;
+}
+h2{
+    color: white;
+    font-size: large;
+}
+.table1{
+    text-align: left;
+}
+.table2{
+    text-align: left;
+}
